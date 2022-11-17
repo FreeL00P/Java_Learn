@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/Chapter10.iml" filepath="$PROJECT_DIR$/Chapter10/Chapter10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/Chapter11.iml" filepath="$PROJECT_DIR$/Chapter11/Chapter11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter15/Chapter15.iml" filepath="$PROJECT_DIR$/Chapter15/Chapter15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter16/Chapter16.iml" filepath="$PROJECT_DIR$/Chapter16/Chapter16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter17/Chapter17.iml" filepath="$PROJECT_DIR$/Chapter17/Chapter17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter19/Chapter19.iml" filepath="$PROJECT_DIR$/Chapter19/Chapter19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter21/Chapter21.iml" filepath="$PROJECT_DIR$/Chapter21/Chapter21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter23/Chapter23.iml" filepath="$PROJECT_DIR$/Chapter23/Chapter23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter25/Chapter25.iml" filepath="$PROJECT_DIR$/Chapter25/Chapter25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateStructures/DateStructures.iml" filepath="$PROJECT_DIR$/DateStructures/DateStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework/Homework.iml" filepath="$PROJECT_DIR$/Homework/Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QQClient/QQClient.iml" filepath="$PROJECT_DIR$/QQClient/QQClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QQServer/QQServer.iml" filepath="$PROJECT_DIR$/QQServer/QQServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/Web/Web.iml" filepath="$PROJECT_DIR$/JavaWeb/Web/Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mhl/mhl.iml" filepath="$PROJECT_DIR$/mhl/mhl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro19-filter/pro19-filter.iml" filepath="$PROJECT_DIR$/pro19-filter/pro19-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qqzone1.0/qqzone1.0.iml" filepath="$PROJECT_DIR$/qqzone1.0/qqzone1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/servlet/servlet.iml" filepath="$PROJECT_DIR$/JavaWeb/servlet/servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet-api/servlet-api.iml" filepath="$PROJECT_DIR$/servlet-api/servlet-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thymeleaf/thymeleaf.iml" filepath="$PROJECT_DIR$/thymeleaf/thymeleaf.iml" />
+    </modules>
+  </component>
+</project>

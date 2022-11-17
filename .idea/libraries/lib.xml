@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_281/lib/commons-dbutils-1.7.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_281/lib/druid-1.2.9.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_281/lib/mysql-connector-java-8.0.29.jar!/" />
+      <root url="file://C:/Program Files/Java/jdk1.8.0_281/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Program Files/Java/jdk1.8.0_281/lib" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files/Java/jdk1.8.0_281/lib" recursive="false" />
+    <jarDirectory url="file://C:/Program Files/Java/jdk1.8.0_281/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<beans>
+    <bean id="fruit" class="com.fj.fruit.controllers.FruitController" />
+</beans>
+        <!--    bean标签的作用是将来servletPath中涉及的名字对应的是fruit 那么就要fruitController处理-->
